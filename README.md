@@ -1,7 +1,5 @@
 <div align="center">
 
-<img style="width:30%" src="eat-or-die.png"/>
-
 # 이주 노동자의 신세졌던 맛집 리스트
 
 </div>
