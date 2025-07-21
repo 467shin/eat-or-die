@@ -1,5 +1,7 @@
 <div align="center">
 
+<img style="width:50%" src="eat-or-die.png"/>
+
 # 이주 노동자의 신세졌던 맛집 리스트
 
 </div>
@@ -39,7 +41,6 @@
 - 모성
 - 불타는 닭발
 
-<br>
 <br>
 
 # 🍢 일본
